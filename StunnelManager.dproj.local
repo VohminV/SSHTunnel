@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024.11.25 08:50:57.247.pas,C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas=Z:\test\StunnelManager\fMain.pas</Transaction>
+    <Transaction>2024.11.25 08:50:57.247.dfm,C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.dfm=Z:\test\StunnelManager\fMain.dfm</Transaction>
+    <Transaction>2024.11.25 08:51:01.550.dproj,C:\Users\Admin\Documents\RAD Studio\Projects\Project1.dproj=Z:\test\StunnelManager\StunnelManager.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
